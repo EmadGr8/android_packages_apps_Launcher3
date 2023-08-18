@@ -22,4 +22,3 @@ jobs:
         run: |
           cd android_packages_apps_Launcher3
           ./gradlew assembleDebug
- 
