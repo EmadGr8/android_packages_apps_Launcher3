@@ -22,5 +22,5 @@ jobs:
       - name: Build APK
         run: |
           android_packages_apps_Launcher3
-          ./gradlew assembleDebug
+          gradle assembleDebug
           
